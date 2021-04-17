@@ -2,8 +2,6 @@
 
 This is the first file in this repo
 
-##Ipsum Below
+##Website Contents
 
-Tattooed banh mi bespoke DIY salvia, fixie banjo. 2 wolf moon.
-
-Drinking vinegar 
+1.index.html
